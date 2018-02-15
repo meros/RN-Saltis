@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "Saltis-tvOS.app"
-               BlueprintName = "Saltis-tvOS"
-               ReferencedContainer = "container:Saltis.xcodeproj">
+               BuildableName = "Saltimporten-tvOS.app"
+               BlueprintName = "Saltimporten-tvOS"
+               ReferencedContainer = "container:Saltimporten.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Saltis-tvOSTests.xctest"
-               BlueprintName = "Saltis-tvOSTests"
-               ReferencedContainer = "container:Saltis.xcodeproj">
+               BuildableName = "Saltimporten-tvOSTests.xctest"
+               BlueprintName = "Saltimporten-tvOSTests"
+               ReferencedContainer = "container:Saltimporten.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Saltis-tvOSTests.xctest"
-               BlueprintName = "Saltis-tvOSTests"
-               ReferencedContainer = "container:Saltis.xcodeproj">
+               BuildableName = "Saltimporten-tvOSTests.xctest"
+               BlueprintName = "Saltimporten-tvOSTests"
+               ReferencedContainer = "container:Saltimporten.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Saltis-tvOS.app"
-            BlueprintName = "Saltis-tvOS"
-            ReferencedContainer = "container:Saltis.xcodeproj">
+            BuildableName = "Saltimporten-tvOS.app"
+            BlueprintName = "Saltimporten-tvOS"
+            ReferencedContainer = "container:Saltimporten.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Saltis-tvOS.app"
-            BlueprintName = "Saltis-tvOS"
-            ReferencedContainer = "container:Saltis.xcodeproj">
+            BuildableName = "Saltimporten-tvOS.app"
+            BlueprintName = "Saltimporten-tvOS"
+            ReferencedContainer = "container:Saltimporten.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Saltis-tvOS.app"
-            BlueprintName = "Saltis-tvOS"
-            ReferencedContainer = "container:Saltis.xcodeproj">
+            BuildableName = "Saltimporten-tvOS.app"
+            BlueprintName = "Saltimporten-tvOS"
+            ReferencedContainer = "container:Saltimporten.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
